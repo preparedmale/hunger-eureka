@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: hunger_discovery
+    name: hunger-discovery
 
 eureka:
   client:
